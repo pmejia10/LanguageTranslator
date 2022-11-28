@@ -1,6 +1,11 @@
-#Language Translator
+# Language Translator
 
-##Program to translate from English to any other Language using Python3
+# Description
+## Program to translate from English to any other Language using Python3
+### Author: Patrick Mejia
 
-Author: Patrick Mejia
+# Requirements
+Python3
+googletrans ~ 4.0.0rc1
+
 
